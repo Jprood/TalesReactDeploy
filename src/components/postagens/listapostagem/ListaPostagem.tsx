@@ -64,7 +64,7 @@ function ListaPostagem() {
                                         <Typography variant="h5" gutterBottom align='center' justifyContent='center'>
                                             {post.titulo}
                                         </Typography>
-                                        <Typography variant="body1" align='center' component="p" noWrap>
+                                        <Typography variant="body1" align='center' component="p">
                                             {post.texto}
                                         </Typography>
                                     </Box>
