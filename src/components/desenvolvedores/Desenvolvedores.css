@@ -1,0 +1,24 @@
+.logo-dev{
+    display:flex; 
+    align-items: center; 
+    justify-content: center;
+    margin:auto;
+}
+
+.colorIcon{
+    color: #224a59 !important;
+    width: 1.5em !important
+}
+
+.text-card-dev{
+    color:#224a59!important;
+    text-align: justify;
+    height: 160px;
+
+
+}
+.fonte-nome{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif!important;
+    text-align: center;
+    color: #224a59;
+}

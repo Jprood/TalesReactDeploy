@@ -1,0 +1,49 @@
+.fundo-home {
+    background-image: url(https://i.imgur.com/iioBsRK.jpg); 
+    min-height: 100vh; 
+}
+
+.containerHome{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.050);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.imgPost{
+    width: 100px;
+    height: 100px; 
+    border-radius: 50%;
+}
+.imagem-home {
+    background-image: url(https://i.imgur.com/cVryGY1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 30vh;
+    width: 500px; 
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.containerForm{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.050);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.iconHome{
+    color: #e06614 !important;
+   
+}

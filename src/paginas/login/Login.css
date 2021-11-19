@@ -1,0 +1,44 @@
+.colorlogin-background {
+    background-image: url(https://i.imgur.com/CGZKwce.jpg);
+    background-repeat: no-repeat; 
+    width: 100vh; 
+    min-height: 100vh; 
+    background-size: cover; 
+    background-position: center;
+}
+
+.boxlogin1 {
+    background-color: white;
+    border-color: #5b5c57 !important;
+}
+
+.tamanho-logo-login {
+    width: 70% !important;
+    height: 45% !important;
+    margin-top: 5px;
+}
+.campo-de-texto {
+    margin-bottom: 20px !important;
+}
+
+.botao {
+    background-color: #a0c626 !important;
+    border-radius: 5px !important;
+}
+
+.boldColor {
+    font-weight: bold !important;
+}
+
+.cursorCad {
+    cursor: pointer !important;
+    color:#224a59;
+}
+
+.textDecoration {
+    text-decoration: none;
+}
+
+.txtFieldColorLogin{
+    color:#224a59;
+}

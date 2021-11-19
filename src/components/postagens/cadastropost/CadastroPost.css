@@ -1,0 +1,74 @@
+.caixatexto-color {
+    background-color: white !important;
+}
+
+.tamanhocaixa-tema {
+    width: 300px !important;
+    margin-top: 30px;
+}
+
+.margemcaixa-tema {
+    margin-top: 40px;
+}
+
+.borda-cor {
+    border-color: #c1c2bd !important;
+}
+
+.paddingPost{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.txtFieldColor-post{
+    color:#353535 !important; 
+}
+
+.btnColorBluecp {
+    background-color:#224a59!important
+    }
+
+.btmargem-top {
+    margin-top: 15px !important;
+}
+
+.centro-botao {
+    justify-content: right !important;
+    align-items: center !important;
+}
+
+.tamanho-t-p {
+    width: 100% !important;
+}
+
+.tamanho-t {
+    width: 50% !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.tamanho-p {
+    width: 30% !important;
+}
+
+.topo{
+    margin-top: 20px;
+}
+.containerCadPost{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 600px; 
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.050);
+    margin-bottom: 15px!important;
+    margin-top: 50px;
+}
+.txtAtualizarPost{
+    color: #ffffff;
+    background-color: #224a59;
+    border-radius: 4px !important;     
+}

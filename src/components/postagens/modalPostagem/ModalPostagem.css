@@ -1,0 +1,14 @@
+.cursor{
+    cursor: pointer;
+}
+
+.btnModal{
+    border-color: #224a59!important;
+    background-color: white !important;
+    min-width: 100% !important; 
+    border-radius: 20px !important;
+    justify-content: left !important;
+    text-transform: capitalize !important;
+    color: #aab7bb!important;
+    font-weight: bold !important;
+}

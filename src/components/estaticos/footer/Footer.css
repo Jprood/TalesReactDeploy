@@ -1,0 +1,36 @@
+.box1 {
+    background-color: #224a59;
+}
+
+.box2 {
+    background-color: #2D6673;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.textos {
+    color: white;
+}
+
+.textos-1 {
+    color: white;
+    margin-top: 15px !important;
+    width: 82%;
+}
+
+.tales {
+    font-family: Quintessential !important;
+    color: white;
+}
+
+.logo-footer {
+    width: 168px;
+    height: 64px;
+    justify-content: center;
+}
+
+.cursor-p {
+    cursor: pointer;
+}

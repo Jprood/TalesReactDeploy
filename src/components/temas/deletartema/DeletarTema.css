@@ -1,0 +1,18 @@
+.btnColorRed{
+    background-color:#b41313!important
+}
+.btnColorBlue{
+    background-color:#224a59!important
+}
+.containerDeletePost{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 850px; 
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.050);
+    margin-bottom: 15px!important;
+    margin-top: 15px;
+}

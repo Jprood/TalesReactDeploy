@@ -1,0 +1,22 @@
+.logo-nav {
+    width: 168px;
+    height: 64px;
+}
+
+.cor-navBar {
+    background-color: #224A59 !important;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.cursor {
+    cursor: pointer;
+    color: white;
+}
+.iconNavbar{
+    color: #ffffff !important;
+    width: 1.2em !important;
+    height: 0.8em !important
+}
