@@ -54,14 +54,14 @@ function ListaPostagem() {
                         <Grid container >
                             <Grid item xs={12} display='flex' justifyContent='center' alignItems='center'>
                                 <Box className='containerListPost'>
-                                    <Box alignItems='center' justifyContent='center'>
+                                    <Box alignItems='center' justifyContent='center' p={5}>
                                         <Typography variant="body2" textAlign='left' style={{ fontWeight: 'bold', color: '#224a59' }}>
                                             {post.usuario?.nome}
                                         </Typography>
                                         <Typography variant="h5" gutterBottom align='center' justifyContent='center'>
                                             {post.titulo}
                                         </Typography>
-                                        <Typography variant="body1" align='center' component="p">
+                                        <Typography variant="body1" align='center' component="p" textAlign='justify' marginBottom="10px">
                                             {post.texto}
                                         </Typography>
                                     </Box>
