@@ -101,7 +101,7 @@ function Home() {
 
                 </Grid>
                 <Grid item xs={6} justifyContent='center' alignItems='center'>
-                    <Box display='flex' className='containerForm' height='8%'>
+                    <Box display='flex' className='containerForm' height='5%'>
                         <Box justifyContent='left' width='20%' >
                             <img src="https://i.imgur.com/fbO3Y7f.jpg" alt="" className='imgPost' />
                         </Box>
